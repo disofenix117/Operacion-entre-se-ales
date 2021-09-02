@@ -1,0 +1,33 @@
+F:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\operaciones 2\operaciones\bin\Debug\Files\señales.csv
+F:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\operaciones 2\operaciones\obj\Debug\operaciones.Form1.resources
+F:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\operaciones 2\operaciones\obj\Debug\operaciones.Properties.Resources.resources
+F:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\operaciones 2\operaciones\obj\Debug\operaciones2.csproj.GenerateResource.cache
+F:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\operaciones 2\operaciones\obj\Debug\operaciones2.csproj.CoreCompileInputs.cache
+F:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\operaciones 2\operaciones\obj\Debug\operaciones.exe
+F:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\operaciones 2\operaciones\obj\Debug\operaciones.pdb
+F:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\operaciones 2\operaciones\bin\Debug\operaciones.exe.config
+F:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\operaciones 2\operaciones\bin\Debug\operaciones.exe
+F:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\operaciones 2\operaciones\bin\Debug\operaciones.pdb
+F:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\operaciones 2\operaciones\obj\Debug\operaciones2.csprojAssemblyReference.cache
+F:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\operaciones 2 (lee 2 archivos con pos de 0s diferentes)\operaciones\bin\Debug\Files\señales.csv
+F:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\operaciones 2 (lee 2 archivos con pos de 0s diferentes)\operaciones\bin\Debug\operaciones.exe.config
+F:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\operaciones 2 (lee 2 archivos con pos de 0s diferentes)\operaciones\bin\Debug\operaciones.exe
+F:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\operaciones 2 (lee 2 archivos con pos de 0s diferentes)\operaciones\bin\Debug\operaciones.pdb
+F:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\operaciones 2 (lee 2 archivos con pos de 0s diferentes)\operaciones\obj\Debug\operaciones2.csprojAssemblyReference.cache
+F:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\operaciones 2 (lee 2 archivos con pos de 0s diferentes)\operaciones\obj\Debug\operaciones.Form1.resources
+F:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\operaciones 2 (lee 2 archivos con pos de 0s diferentes)\operaciones\obj\Debug\operaciones.Properties.Resources.resources
+F:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\operaciones 2 (lee 2 archivos con pos de 0s diferentes)\operaciones\obj\Debug\operaciones2.csproj.GenerateResource.cache
+F:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\operaciones 2 (lee 2 archivos con pos de 0s diferentes)\operaciones\obj\Debug\operaciones2.csproj.CoreCompileInputs.cache
+F:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\operaciones 2 (lee 2 archivos con pos de 0s diferentes)\operaciones\obj\Debug\operaciones.exe
+F:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\operaciones 2 (lee 2 archivos con pos de 0s diferentes)\operaciones\obj\Debug\operaciones.pdb
+E:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\1 corte\operaciones 2 (lee 2 archivos con pos de 0s diferentes)\operaciones\bin\Debug\Files\señales.csv
+E:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\1 corte\operaciones 2 (lee 2 archivos con pos de 0s diferentes)\operaciones\bin\Debug\operaciones.exe.config
+E:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\1 corte\operaciones 2 (lee 2 archivos con pos de 0s diferentes)\operaciones\bin\Debug\operaciones.exe
+E:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\1 corte\operaciones 2 (lee 2 archivos con pos de 0s diferentes)\operaciones\bin\Debug\operaciones.pdb
+E:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\1 corte\operaciones 2 (lee 2 archivos con pos de 0s diferentes)\operaciones\obj\Debug\operaciones2.csprojAssemblyReference.cache
+E:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\1 corte\operaciones 2 (lee 2 archivos con pos de 0s diferentes)\operaciones\obj\Debug\operaciones.Form1.resources
+E:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\1 corte\operaciones 2 (lee 2 archivos con pos de 0s diferentes)\operaciones\obj\Debug\operaciones.Properties.Resources.resources
+E:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\1 corte\operaciones 2 (lee 2 archivos con pos de 0s diferentes)\operaciones\obj\Debug\operaciones2.csproj.GenerateResource.cache
+E:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\1 corte\operaciones 2 (lee 2 archivos con pos de 0s diferentes)\operaciones\obj\Debug\operaciones2.csproj.CoreCompileInputs.cache
+E:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\1 corte\operaciones 2 (lee 2 archivos con pos de 0s diferentes)\operaciones\obj\Debug\operaciones.exe
+E:\Diego Suarez\U.M.N.G\Procesamiento de Señales\2.0\Trabajos\1 corte\operaciones 2 (lee 2 archivos con pos de 0s diferentes)\operaciones\obj\Debug\operaciones.pdb
